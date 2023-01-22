@@ -1,2 +1,2 @@
 # SQL-Coding-
-I will store all code or documents related to SQL in this repository.
+I will store all codes or documents related to SQL in this repository.
