@@ -54,3 +54,15 @@ join CovidVaccination vac
 On dea.location = vac.location
 where dea.continent is not null 
 order by 2,3;
+
+
+--- Partition sum new vaccinated people by location 
+
+select cd.continent,cd.location, cd.date, cd.population, vac.new_vaccinations,
+sum(convert(int,vac.new_vaccinations)) over (partition by cd.location order by cd.location,cd.date) as Rolling_sum
+from CovidDeath cd
+Join CovidVaccination vac
+	on cd.location = vac.location
+	and cd.date=vac.date
+where cd.continent is not NULL 
+order by 2,3;
