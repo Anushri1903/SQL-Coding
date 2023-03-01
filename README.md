@@ -1,2 +1,4 @@
 # SQL-Coding-
-I will store all codes or documents related to SQL in this repository.
+
+The basic and advanced concepts of SQL using Postgres in this repository. 
+I have also worked upon data cleaning, and manipulation and analysis over a few case studies. 
