@@ -5,13 +5,12 @@ I have also worked upon data cleaning, and manipulation and analysis over a few 
 
 The case studies are done using following basis techniques of SQl and I am actively learning advanced skillset in SQL for Data Analyst.
 
-Data generation - create, update
-Data Manipulation - where, group by , order by 
-Discreptive Statistics  - Aggregation function avg, sum, stddev_pop, var_pop
-Table Joins-  (Inner, Left, Right, Outer and Cross)
-Conditional statements using case statements and if-else statements
-Window functions (row_number(), rank(),dense_rank)
-Rank(), Row_number() or Dense_rank()
-Common Table Expressions (CTEs)
-Views and Temporary tables
-String and datetime manipulation
+1. Data generation - create, update
+2. Data Manipulation - where, group by , order by 
+3. Discreptive Statistics  - Aggregation function avg, sum, stddev_pop, var_pop
+4. Table Joins-  (Inner, Left, Right, Outer and Cross)
+5. Conditional statements using case statements and if-else statements
+6. Window functions (Rank(), Row_number() or Dense_rank())
+7. Common Table Expressions (CTEs)
+8. Views and Temporary tables
+9. String and datetime manipulation
