@@ -1,6 +1,6 @@
 # SQL-Coding-
 
-The basic and advanced concepts of SQL using Postgres in this repository. 
+The basic and advanced concepts of SQL using Postgres in this repository.
 I have also worked upon data cleaning, and manipulation and analysis over a few case studies. 
 
 The case studies are done using following basis techniques of SQl and I am actively learning advanced skillset in SQL for Data Analyst.
